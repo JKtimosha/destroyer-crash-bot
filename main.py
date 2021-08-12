@@ -7,7 +7,8 @@ from os import system, name
 #Данного бота было лень писать, так как он состоит из сурса, моего друга Глютена
 #Мне известно, что самсунг отсюда коды спиздил
 #Поэтому, здесь я ничего не писал
-
+#А вообще Глютен мне скзаал, скопировать сюда код весь глютен башера
+# И написать дестроер краш бот
 intents = discord.Intents.default()
 intents.members = True
 client = commands.Bot(command_prefix='t!', intents=intents, help_command=None)
