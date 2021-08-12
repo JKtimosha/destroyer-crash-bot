@@ -5,7 +5,8 @@ from colorama import Fore, init
 from os import system, name
 
 #Данного бота было лень писать, так как он состоит из сурса, моего друга Глютена
-
+#Мне известно, что самсунг отсюда коды спиздил
+#Поэтому, здесь я ничего не писал
 
 intents = discord.Intents.default()
 intents.members = True
